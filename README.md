@@ -1,8 +1,11 @@
 ### Hi there, I'm Sabina! :wave: 
 
-I am a graduate student at [Stony Brook University](https://www.stonybrook.edu/commcms/physics/index.php) in the Department of Physics & Astronomy, but I mostly do *Physics* :books::pencil2: in *Astronomy* :milky_way::telescope::waning_crescent_moon:!
+I am a graduate student at [Stony Brook University](https://www.stonybrook.edu/commcms/physics/index.php) in the Department of Physics & Astronomy, but I mostly do *Physics* :books::pencil2: in *Astronomy* 🪐:milky_way::telescope:! I work with a lot of amazing people to understand planet formation, accretion disks and things in them, and stellar variability. I enjoy doing 👩🏻‍💻 (hydrodynamical and N-body simulations, and data analysis and visualization). 
 
-- :saturn: [Personal website](https://ssagynbayeva.github.io)
+- 💅🏻 [Personal website](https://ssagynbayeva.github.io)
+- 🐦 [Twitter](https://twitter.com/sabinaastro)
+- 👩🏻‍🔬 [My Academic CV](https://github.com/ssagynbayeva/myCV)
+- 📕 [Stony Brook Astronomy page](http://www.astro.sunysb.edu)
 <!--
 **ssagynbayeva/ssagynbayeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
