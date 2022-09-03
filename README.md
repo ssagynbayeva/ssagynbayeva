@@ -1,5 +1,6 @@
 ### Hi there, I'm Sabina! :wave: 
 
+I am a graduate student at [Stony Brook University](https://www.stonybrook.edu/commcms/physics/index.php) in the Department of Physics & Astronomy, but I do more :milky_way::telescope::waning_crescent_moon:!
 <!--
 **ssagynbayeva/ssagynbayeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
